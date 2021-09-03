@@ -1,9 +1,9 @@
 ## Favorite Games among group
 
-## Why that one is chosen
+### Why that one is chosen
 
-# Game 1:
+## Game 1:
 
-# Game 2:
+## Game 2:
 
-# Game 3:
+## Game 3:
