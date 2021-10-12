@@ -23,9 +23,7 @@ I would give Destiny 2 a 4 star rating
 
 ## Summary
 
-
 ## Final Thoughts
-
 
 ## Additional Information
 
@@ -34,54 +32,29 @@ Test Plan
 
 ## Summary
 
-Summarize the project and the functions of the software to be tested
-
 ## Environment/User Community
-
-Identify user community and where testing will be performed
 
 ## Test Objectives
 
-State objectives to be accomplished by testing
-
 ## Acceptance Criteria
 
-Estimated number of defect or internal test acceptance criteria
-
 ## References
-
-* List any reference documents
 
 # Section 2: Plan
 ## Test Description
 
-Briefly describe what is being tested and any inputs needed for testing
-
 ## Test Team
-
-Who is on the team and what is their role/assignment
 
 ## Milestones
 
-* Testing Locations, events, test phases and dates of testing
-
 ## Budgets
-
-Funds allocated to testing by task
 
 ## Testing
 ### Requirements
 
-Resource requirements, equipment, software/hardware, tester with special skill set
-
 ### Testing Materials/Test Tools
 
-Documentation you will use or produce or testing tools used
-
 ### Test Training
-
-Personnel training, types of training/training staff - could include acceptance testing or
-playtesting
 
 # Section 3: Specifications and Evaluations
 
@@ -89,33 +62,19 @@ playtesting
 
 ### Business Rules/Functions
 
-* List any business requirements (list)
-
 ### Software/Game Functions
-
-* List any software requirements (list)
 
 ### Test/Function Relationships
 
-Match individual tests or test suites to requirements (this is usually a table)
-Beginning stages of developing your test suites
-
 ### Test Progression
-Describe how progression is made from one test to another
 
 ## Methods and Constraints
 
 ### Test Methodology
 
-Describe testing strategy/types of testing or any other methodology
-
 ### Extent of Testing
 
-Full or partial testing and explanation
-
 ### Constraints
-
-Describe any test condition constraints such as interfaces or data
 
 Test Cases
 
@@ -159,8 +118,6 @@ Test Report# Test Case
 
 ## Overall Test Status:
 
-
-
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
@@ -168,7 +125,54 @@ Test Report# Test Case
 | 2 | | | |			
 | 3 | | | |			
 
-
-
-
 Status Reports
+# TEST REPORT OUTLINE
+
+## SECTION 1: OVERVIEW OF TEST RESULTS
+
+### Overview
+
+#### Number of Test performed
+
+#### Number of Defects
+
+(Paragraph)
+
+#### Requirements Status
+
+### Test Environment
+
+#### Hardware Configuration
+
+### Recommendation
+
+## SECTION 2: DETAILED TEST RESULTS
+
+### List of Tests
+
+| Name of Test | Status – Pass/Fail | Tester | Test ID | Associated Requirement |
+|---|---|---|---|---|
+| | | | | |
+
+## SECTION 3: SUMMARY OF DEFECTS
+
+### List of Defects found or fixed
+
+| Defect ID | Description | Severity | Associated Test ID or Requirement |
+|---|---|---|---|
+| | | | |
+# Group Meeting
+
+# Who Attended
+
+# Project Schedule
+
+# Current Schedule
+
+# Changes
+
+## Additional tasks to add
+
+## What has been completed and date of completion
+
+# General Notes/Overall Status
