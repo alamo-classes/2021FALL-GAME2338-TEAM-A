@@ -19,8 +19,4 @@ Destiny 2 is a First Person Shooter that puts the player into a galactic battle 
 
 ## Final Thoughts
 
-
-
-## Additional Information
-
-Links to other reviews or other information you used in this review.
+Overall Destiny 2 is a very good game that can crash, or freeze while playing as of the latest updates, or if there are to many supers cast at the same time. 
