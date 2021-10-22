@@ -15,7 +15,7 @@ we chose Destiny 2 because all of us have been playing this game for years and h
 
 ### Description of Destiny 2
 
-
+Destiny 2 is a First Person Shooter that puts the player into a galactic battle between light and dark.  
 
 ## Final Thoughts
 
