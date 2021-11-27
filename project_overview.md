@@ -12,7 +12,7 @@ Develop a project schedule to include the following tasks at a minimum:
 
 | Deliverable | Start Date/End Date | Due Date | Person(s) Assigned |
 |-|-|-|-|
-| Game Selection | 10/07 - 10/12 | Week 6  |  |
+| Game Selection | 10/07 - 10/12 | Week 6  | William, Cody |
 | Develop Schedule | 10/14 - 10/19 | Week 7  | | 
 | Send Status Report 1 | 10/21 - 10/26 | Week 8  |  |
 | Create Test Plan - First Draft | 10/28 - 11/2 | Week 9  |  |
