@@ -40,7 +40,7 @@ on whatever console they wish to test on.
 ## Test Team
 
 William CarasasFigueroa
-Cody
+Cody Post
 
 ## Milestones
 
