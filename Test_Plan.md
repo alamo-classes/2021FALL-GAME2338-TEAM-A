@@ -2,32 +2,45 @@
 
 ## Summary
 
-Summarize the project and the functions of the software to be tested
+An Online MMO PvE experience that lets players in up to 6 in a group work together and complete missions and task. The engine is a mix of unreal and Saber3D (Can't really
+figure this out as they call it "the one we used for halo" so I can refer it to the "Halo Engine" I guess). 
+
+Destiny 2 can be played on PC, Xbox and Playstation.
+
+This whole test will be checking for balance, "fun", and any (visual or gameplay) bug along the way. As well as game inputs are fully functional.
 
 ## Environment/User Community
 
-Identify user community and where testing will be performed
+A closed out environment remotely.
 
 ## Test Objectives
 
-State objectives to be accomplished by testing
+To make sure the game is balanced via weapons and difficulty.
+Make suire the games inputs work properly.
 
 ## Acceptance Criteria
 
-Estimated number of defect or internal test acceptance criteria
+Errors (Visual and Gameplay) are expected to happen. They are allowed to be noted and correctly fixed as time goes on.
+Input errors are required to be reported, as its something that shouldn't be broken at the time.
+
+Overall Destiny 2 is mid way on its last season till Witch Queen is released. Currently they released "TWAB" that talks about a lot of nerfs to abilities in the game.
+But this test will focus on the balancing in this season, before all the changes occur in the new season.
 
 ## References
 
-* List any reference documents
+https://help.bungie.net/hc/en-us
 
 # Section 2: Plan
 ## Test Description
 
-Briefly describe what is being tested and any inputs needed for testing
+Balancing will be the main focus throughout this test. This will be tested through experimentation with gunplay, and how mods and abilities affect the overall gameplay
+in the PvE areas to it. (PvP would be pages and pages worth of why its unbalanced.) Testers will need a fully functioning keyboard and mouse, or controller depending
+on whatever console they wish to test on. 
 
 ## Test Team
 
-Who is on the team and what is their role/assignment
+William CarasasFigueroa
+Cody
 
 ## Milestones
 
