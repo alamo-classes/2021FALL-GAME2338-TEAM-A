@@ -44,7 +44,7 @@ Cody Post
 
 ## Milestones
 
-* Testing Locations, events, test phases and dates of testing
+* Our own homes, The new season of Destiny 2, test date is December 1, 2021
 
 ## Budgets
 
