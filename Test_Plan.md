@@ -57,12 +57,18 @@ Destiny 2, any console or PC, TV or a monitior
 
 ### Testing Materials/Test Tools
 
-
+Tool | Function
+--------|------------
+Discord | Discussion
+GitHub | Documentation
+Keyboard/Mouse | Inputs
+Controller | Controller Specific Inputs
+Monitor | Visuals
+Headset | Audio
 
 ### Test Training
 
-Personnel training, types of training/training staff - could include acceptance testing or
-playtesting
+No Training needed
 
 # Section 3: Specifications and Evaluations
 
@@ -70,30 +76,40 @@ playtesting
 
 ### Business Rules/Functions
 
-* None (list)
+* Computer (Or Console depending on whos has what to test with)
+* Keyboard and Mouse/Controller
 
 ### Software/Game Functions
 
-* any console above a xbox 360 or playustation 3. (list)
+* any console above a xbox 360 or playstation 3.
+* Discord
+*
 
 ### Test/Function Relationships
 
-Match individual tests or test suites to requirements (this is usually a table)
-Beginning stages of developing your test suites
+Test | Function
+------------ | -------------
+Menus | UI Buttons
+Movement | Arrow Keys/C/Space (Including the other movements like jump and such)
+Aim/Shoot | Mouse/Left and Right Click
 
 ### Test Progression
-Describe how progression is made from one test to another
+
+* Testers will boot up the game and login, going around the menus while they're in Orbit.
+* Testers will play a Vanguard and PVP game of their choice to test movement and aiming. As well note the level progression.
+* Testers will complete the matches and record everything that worked/failed.
 
 ## Methods and Constraints
 
 ### Test Methodology
 
-Describe testing strategy/types of testing or any other methodology
+Compatibility/Functional/Usability Testing
 
 ### Extent of Testing
 
-Full or partial testing and explanation
+Working with controls to see if they're easy enough to control and use.
+If theres time, we'll go over the balancing.
 
 ### Constraints
 
-Describe any test condition constraints such as interfaces or data
+We have many places to test movement, and the functionality won't take long. However understanding the balance in this game is difficult. There might not be time to fully understand it all before it changes again.
