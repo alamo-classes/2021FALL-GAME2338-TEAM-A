@@ -48,16 +48,16 @@ Cody Post
 
 ## Budgets
 
-Funds allocated to testing by task
+I had already bought all the DLC and season passes for Destiny 2 with my own money.
 
 ## Testing
 ### Requirements
 
-Resource requirements, equipment, software/hardware, tester with special skill set
+Destiny 2, any console or PC, TV or a monitior
 
 ### Testing Materials/Test Tools
 
-Documentation you will use or produce or testing tools used
+
 
 ### Test Training
 
@@ -70,11 +70,11 @@ playtesting
 
 ### Business Rules/Functions
 
-* List any business requirements (list)
+* None (list)
 
 ### Software/Game Functions
 
-* List any software requirements (list)
+* any console above a xbox 360 or playustation 3. (list)
 
 ### Test/Function Relationships
 
