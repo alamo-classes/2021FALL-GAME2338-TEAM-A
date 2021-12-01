@@ -14,12 +14,12 @@ Develop a project schedule to include the following tasks at a minimum:
 |-|-|-|-|
 | Game Selection | 10/07 - 10/12 | Week 6  | William, Cody |
 | Develop Schedule | 10/14 - 10/19 | Week 7  | William | 
-| Send Status Report 1 | 10/21 - 10/26 | Week 8  |  |
-| Create Test Plan - First Draft | 10/28 - 11/2 | Week 9  |  |
-| Send Status Report 2 | 11/4 - 11/9 | Week 11  | |
-| Create Test Cases - Draft | 11/11 - 11/16 | Week 12  |  | 
-| Execute Test Cases | 11/18 - 11/23 | Week 13  |  | 
-| Create Test Report | 11/25 - 11/27 | Week 14  |  | 
+| Send Status Report 1 | 10/21 - 10/26 | Week 8  | Cody |
+| Create Test Plan - First Draft | 10/28 - 11/2 | Week 9  | William |
+| Send Status Report 2 | 11/4 - 11/9 | Week 11  | William |
+| Create Test Cases - Draft | 11/11 - 11/16 | Week 12  | William, Cody | 
+| Execute Test Cases | 11/18 - 11/23 | Week 13  | William, Cody | 
+| Create Test Report | 11/25 - 11/27 | Week 14  | William, Cody  | 
 | Everything Due | | Week 15  | William, Cody, Benito | 
 
 # Part One: Game Selection
