@@ -22,7 +22,7 @@
 
 ### Test Environment
 
-(Paragraphs)
+QA Environment
 
 #### Hardware Configuration
 
