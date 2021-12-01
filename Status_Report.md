@@ -39,7 +39,7 @@
 
 ## What has been completed and date of completion
 
-
+Game Selection (10/9/2021), Developing Schedule (10/13/2021), Status Report 1 (12/1/2021), Test Plan First Draft (12/1/2021).
 
 # General Notes/Overall Status
 
