@@ -9,7 +9,7 @@
 
 #### Number of Test performed
 
-(Paragraph)
+1
 
 #### Number of Defects
 
