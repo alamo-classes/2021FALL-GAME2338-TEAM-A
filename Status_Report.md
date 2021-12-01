@@ -1,6 +1,6 @@
 # Group Meeting
 
-* Date: Oct. 7, 2021
+* Date: December 1, 2021
 * Time: 8:20pm
 * Location: ZOOM
 
@@ -31,7 +31,7 @@
 
 # Changes
 
-* No changes were made except we worked on the project on Oct. 7, 2021
+* No changes were made except we worked on the project on December 1, 2021
 
 ## Additional tasks to add
 
