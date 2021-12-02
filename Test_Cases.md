@@ -3,48 +3,47 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #001
 * Test Case Name:
-  * #Number
+  * #Destiny2ControllerButtons
 * Component: 
-  * Description
+  * Test if controllers on Keyboard/Mouse and Controller work
 * Test Case Designer:
-  * Name
+  * William CarasasFigueroa
 * Creation Date:
-  * Date
+  * 11/30/2021
 * Modified By:
-  * Name
+  * William CarasasFigueroa
 * Modified Date:
-  * Date
+  * 12/1/2021
 * Requirements Covered:
-  * Description
+  * Moving and activating menus work properly
 * Test Description/Purpose:
-  * Description
+  * The game should respond to all basic and set up movements. The assures that there isn't any issue with controls on Keyboard/mouse and Controller
 * Pre-Test Conditions:
-  * Description
+  * Game loads, go into Orbit, then go into any activity in-game.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+| 1 | Game Launches | Game Loads | (√) |			
+| 2 | Start up game | Hitting any button on main menu loads it | (√) |			
+| 3 | Login | Selecting the character loads "Orbit" | (√) |			
+| 4 | Hit "M" | Loads up the Navigation tab | (√) |			
+| 5 | Select "Tower" | Loads up the map of the Tower | (√) |			
+| 6 | Select a landing done and hit "Land" | Game loads into tower map | (√) |			
+| 7 | Move with Keyboard/Mouse | Moving and looking around | (√) |
+| 8 | Switch to controller (Xbox One) and move | Moving and looking around (but controller) | (√) |			
+| 9 | Exit by hitting escape | Exits the game | (√) |				
 
 ## Overall Test Status:
 
+Destiny can load up properly, load menus quickly, and load into the Tower without any issue. Movements have no issue on either keyboard and controller.
+I was able to switch to each without any issue. Test has passed with no issue.
 
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 | December 1st | William CarasasFigueroa | Perfect, no issues. |			
 
 
