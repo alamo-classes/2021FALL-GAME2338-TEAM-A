@@ -51,6 +51,6 @@ We ran our test on a PC, and an XBox. So for the controls test it was using both
 |---|---|---|---|
 |Destiny 2 mechanics | The warlocks drift is very unstable in the sense of if you boost after jumping and fall a little after jumping you will not boost up.|it makes it a harder to make some jumps when doing jump puzzles |003|
 |Destiny 2 Audio |during some cinematics or in game dialougue will cut out |003 |
-|destiny 2  | | |
+|destiny 2 loading|sometimes when traveling on planet your game will freeze your player and load in the new area |003 |
 | | | |
 | | | |
