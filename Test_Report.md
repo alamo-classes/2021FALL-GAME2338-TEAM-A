@@ -49,7 +49,7 @@ We ran our test on a PC, and an XBox. So for the controls test it was using both
 
 | Defect ID | Description | Severity | Associated Test ID or Requirement |
 |---|---|---|---|
-|Destiny 2 mechanics | The warlocks drift is very unstable in the sense of if you boost after jumping and fall a little after jumping you will not boost up.|it makes it a harder to make some jumps when doing jump puzzles |3|
+|Destiny 2 mechanics | The warlocks drift is very unstable in the sense of if you boost after jumping and fall a little after jumping you will not boost up.|it makes it a harder to make some jumps when doing jump puzzles |003|
 | | | |
 | | | |
 | | | |
