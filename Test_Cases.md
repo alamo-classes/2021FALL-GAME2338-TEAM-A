@@ -165,16 +165,9 @@ Fourth and final was overall normal. A small visual bug of the players (mine) gu
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 |during cinematics sometimes the audio will cut out. |the audio will cut out during cinematics |√ |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+| 1 |during cinematics sometimes the audio will cut out. |the audio will cut out during cinematics |√|			
+| 2 |while on the planet sometimes it would stop me from moving and load |while moving throught the planet it will freeze and load |√|			
+		
 
 ## Overall Test Status:
 
@@ -183,9 +176,9 @@ Fourth and final was overall normal. A small visual bug of the players (mine) gu
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 |Dec.2,2021 |Cody Post| |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 |Dec.2,2021 |Cody Post|went as expected the cinematics audio cut out at sometimes during the cinematic. |			
+| 2 |Dec.2,2021 |Cody Post |the loading screen popped up and froze me in place. |			
+			
 
 
 
