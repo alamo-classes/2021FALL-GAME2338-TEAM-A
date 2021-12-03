@@ -13,7 +13,7 @@
 
 #### Number of Defects
 
-The defects in the game are small and random. Should be looked into with automative testing and some time to fix it. Otherwise none of it is game breaking for the most part.
+The defects in the game are small and random. Should be looked into with automative testing and some time to fix it. Otherwise none of it is game breaking for the most part. I (William) found small ones, but Cody has more experience in Destiny 2.
 
 #### Requirements Status
 
@@ -22,11 +22,11 @@ The defects in the game are small and random. Should be looked into with automat
 
 ### Test Environment
 
-QA Environment
+Production Environment, this is because the game has already released on many platforms. This allows some acceptance criteria as there can be a bunch of community feedback and allows us to not keep an eye on some bugs. Every week theres a decent update which can bring in new bugs. So keeping track might be difficult.
 
 #### Hardware Configuration
 
-(Paragraph)
+We ran our test on a PC, and an XBox. So for the controls test it was using both keyboard/mouse and controller on both platforms. It is limited as Destiny is on Pc, Xbox, and Playstation. And neither of us play on a playstation. On the PC version, the graphic driver was on a Geforce 2070 Super.
 
 ### Recommendation
 
