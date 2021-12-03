@@ -135,3 +135,57 @@ Fourth and final was overall normal. A small visual bug of the players (mine) gu
 | 2 | December 2nd, 1:23 PM | William CarasasFigueroa | Minor visual bugs. Saw through map, a hunters clock was stretching after getting stuck for a moment. |			
 | 3 | December 2nd, 1:54 PM | William CarasasFigueroa | Voice lines for characters cut off mid way, no more dialouge was played despite the visual cues. |			
 | 4 | December 2nd, 2:19 PM | William CarasasFigueroa | Minor visual bugs. |			
+
+---divider---
+
+# Test Case 
+
+## Test Details
+
+* Test Case ID:
+  * #Number
+* Test Case Name:
+  * #Number
+* Component: 
+  * Description
+* Test Case Designer:
+  * Name
+* Creation Date:
+  * Date
+* Modified By:
+  * Name
+* Modified Date:
+  * Date
+* Requirements Covered:
+  * Description
+* Test Description/Purpose:
+  * Description
+* Pre-Test Conditions:
+  * Description
+## Test Steps: 
+| # | Description | Expected Result | Check (√) |
+| --- | --- | --- | --- |
+| 1 | | | |			
+| 2 | | | |			
+| 3 | | | |			
+| 4 | | | |			
+| 5 | | | |			
+| 6 | | | |			
+| 7 | | | |			
+| 8 | | | |			
+| 9 | | | |			
+| 10 | | | |			
+
+## Overall Test Status:
+
+
+
+## Run History:
+| # |	Run Date |	Run By |	Results |
+| --- | --- | --- | --- |
+| 1 | | | |			
+| 2 | | | |			
+| 3 | | | |			
+
+
+
