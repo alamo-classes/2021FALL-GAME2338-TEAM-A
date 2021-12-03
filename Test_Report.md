@@ -9,16 +9,16 @@
 
 #### Number of Test performed
 
-4
+3
 
 #### Number of Defects
 
-The defects in the game are small and random. Should be looked into with automative testing and some time to fix it. Otherwise none of it is game breaking for the most part. I (William) found small ones, but Cody has more experience in Destiny 2.
+The defects in the game are small and random. Should be looked into with automative testing and some time to fix it. Otherwise none of it is game breaking for the most part. I (William) found small ones, but Cody has more experience in Destiny 2 and understands the game better.
 
 #### Requirements Status
 
 (Paragraph)
-* According to your test plan requirements did your test case runs meet your listed requirements.
+* The requirements from the test proved good. It helped both testers get their assignements done and able to understand testing more better.
 
 ### Test Environment
 
@@ -31,7 +31,7 @@ We ran our test on a PC, and an XBox. So for the controls test it was using both
 ### Recommendation
 
 (Paragraphs)
-* Very technical summary of the results and where things can be improved or what course of action the game should take as a result of the testing.
+* The game overall plays the same in its sections. But for there to be new and random bugs in every single run there has to be some automated testing done in the background before anything else is released. They are small bugs, but being this frequent there needs to be changes.
 
 
 ## SECTION 2: DETAILED TEST RESULTS
@@ -41,7 +41,8 @@ We ran our test on a PC, and an XBox. So for the controls test it was using both
 | Name of Test | Status – Pass/Fail | Tester | Test ID | Associated Requirement |
 |---|---|---|---|---|
 | Destiny 2 Controls | Pass | William CarasasFigueroa | 001 | Used Keyboard/Mouse and Controller |
-| Destiny 2 Controls | Passish | William CarasasFigueroa | 002 | Did lots of vanguard strikes to record defects (never again) |
+| Destiny 2 Controls and Gameplay | Pass | William CarasasFigueroa | 002 | Did lots of vanguard strikes to record defects (never again) |
+| Destiny 2 Mechanics | Fail | Cody Post | 003 | Any testing regarding mechanics |
 
 ## SECTION 3: SUMMARY OF DEFECTS
 
@@ -52,4 +53,6 @@ We ran our test on a PC, and an XBox. So for the controls test it was using both
 |Destiny 2 mechanics | The warlocks drift is very unstable in the sense of if you boost after jumping and fall a little after jumping you will not boost up.|it makes it a harder to make some jumps when doing jump puzzles |003|
 |Destiny 2 Audio |during some cinematics or in game dialougue will cut out |it takes away the immersion and can leave out some importan lore | 003 |
 |destiny 2 loading|sometimes when traveling on planet your game will freeze your player and load in the new area |this will add a little bit more time to accomplish quests that are on planets | 003 |
+| Destiny 2 controls | Tested all controls that destiny 2 has | None | 001 |
+| Destiny 2 controls and gameplay | Played multiple vanguard strikes, seeking any and all bugs I could find | Medium | 002 |
 
