@@ -49,4 +49,4 @@ QA Environment
 
 | Defect ID | Description | Severity | Associated Test ID or Requirement |
 |---|---|---|---|
-| | | | |
+|Destiny 2 mechanics | The warlocks drift is very unstable in the sense of if you boost after jumping and fall a little after jumping you will not boost up.|Audio clips of Destiny 2 |in some avtivities the ghost will not speak at all or some cinematics will wither not have audio or will just freeze.  |
