@@ -167,7 +167,7 @@ Fourth and final was overall normal. A small visual bug of the players (mine) gu
 | --- | --- | --- | --- |
 | 1 |during cinematics sometimes the audio will cut out. |the audio will cut out during cinematics |√|			
 | 2 |while on the planet sometimes it would stop me from moving and load |while moving throught the planet it will freeze and load |√|			
-		
+| 3 |when you jump with the warlock sometimes the jump wont boost like it is supposed to |sometimes it fails to give you any boost |√|	
 
 ## Overall Test Status:
 
@@ -178,7 +178,7 @@ Fourth and final was overall normal. A small visual bug of the players (mine) gu
 | --- | --- | --- | --- |
 | 1 |Dec.2,2021 |Cody Post|went as expected the cinematics audio cut out at sometimes during the cinematic. |			
 | 2 |Dec.2,2021 |Cody Post |the loading screen popped up and froze me in place. |			
-			
+| 3 |Dec.2,2021 |Cody Post |the warlocks jump sometimes doesnt jump like it is supposed to  |
 
 
 
