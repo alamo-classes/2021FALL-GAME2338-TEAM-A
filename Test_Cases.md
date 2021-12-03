@@ -143,29 +143,29 @@ Fourth and final was overall normal. A small visual bug of the players (mine) gu
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #002
 * Test Case Name:
-  * #Number
+  * #Destiny2audio/Loading
 * Component: 
-  * Description
+  * Audio bugs and Loading bugs in Destiny 2.
 * Test Case Designer:
-  * Name
+  * William Carasas Figueroa/Cody Post
 * Creation Date:
-  * Date
+  * Dec. 2,2021
 * Modified By:
-  * Name
+  * Cody Post/ William Carasas Figueroa
 * Modified Date:
-  * Date
+  * Dec. 2,2021
 * Requirements Covered:
-  * Description
+  * watching cinematics and listening to in game dialougue, also going through some destination points and seeing if a loading screen pops up.
 * Test Description/Purpose:
-  * Description
+  * tesing to see if there are any audio or loading bugs.
 * Pre-Test Conditions:
-  * Description
+  * Play through so e of the campaigns and watch the cinematics, travel around all the planets and see if it has trouble loading.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
+| 1 |during cinematics sometimes the audio will cut out. |the audio will cut out during cinematics |√ |			
 | 2 | | | |			
 | 3 | | | |			
 | 4 | | | |			
@@ -183,7 +183,7 @@ Fourth and final was overall normal. A small visual bug of the players (mine) gu
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
+| 1 |Dec.2,2021 |Cody Post| |			
 | 2 | | | |			
 | 3 | | | |			
 
