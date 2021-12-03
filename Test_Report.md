@@ -41,7 +41,7 @@ We ran our test on a PC, and an XBox. So for the controls test it was using both
 | Name of Test | Status – Pass/Fail | Tester | Test ID | Associated Requirement |
 |---|---|---|---|---|
 | Destiny 2 Controls | Pass | William CarasasFigueroa | 001 | Used Keyboard/Mouse and Controller |
-| Destiny 2 Controls | Passish | William CarasasFigueroa | 002-4 | Did lots of vanguard strikes to record defects (never again) |
+| Destiny 2 Controls | Passish | William CarasasFigueroa | 002 | Did lots of vanguard strikes to record defects (never again) |
 
 ## SECTION 3: SUMMARY OF DEFECTS
 
