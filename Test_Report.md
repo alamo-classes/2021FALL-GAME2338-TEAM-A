@@ -5,15 +5,15 @@
 ### Overview
 
 (Paragraph)
-* High level overall view of the test case results. Think upper management wants to know how the test plan and test cases ran.
+* The test overall showed that Destiny 2 seems to be random with its glitches. Sometimes visuals, sometimes audio, sometime the players visuals get all funny. Destiny 2 is in year 4 I believe, and things like this still occur. Though I can't really blame them as the scope of the game is huge. Insanely huge when you think about it. But overall the controls are fine, menus work flawlessly, and I still had fun for awhile.
 
 #### Number of Test performed
 
-1
+4
 
 #### Number of Defects
 
-(Paragraph)
+The defects in the game are small and random. Should be looked into with automative testing and some time to fix it. Otherwise none of it is game breaking for the most part.
 
 #### Requirements Status
 
@@ -40,7 +40,8 @@ QA Environment
 
 | Name of Test | Status – Pass/Fail | Tester | Test ID | Associated Requirement |
 |---|---|---|---|---|
-| | | | | |
+| Destiny 2 Controls | Pass | William CarasasFigueroa | 001 | Used Keyboard/Mouse and Controller |
+| Destiny 2 Controls | Passish | William CarasasFigueroa | 002-4 | Did lots of vanguard strikes to record defects (never again) |
 
 ## SECTION 3: SUMMARY OF DEFECTS
 
